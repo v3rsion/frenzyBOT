@@ -1,0 +1,4 @@
+discord.py>=2.0.0
+asyncio
+random2
+black>=24.0.0
