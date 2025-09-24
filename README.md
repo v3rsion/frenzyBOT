@@ -1,17 +1,14 @@
-# Frenzy Bot Setup and Usage Documentation
-
+![docs](https://i.postimg.cc/Y9cKWg6g/4007-readthedocs.png)
+----
 fun fact : We are all made of stardust [⭐️]
 
-
 ‎ 
+
 ## About
 
 **Frenzy Bot** is a [Discord](https://discord.com) bot that creates engaging message drop games where users compete to win by sending messages. Features include spam protection, user cooldowns, admin controls, and exciting frenzy modes with multipliers.
 
 ‎ 
-
-
-
 ## __Table of Contents__
 
 
@@ -65,7 +62,7 @@ FrenzyBot/
 
 ### Frenzy Commands
 - `/start_frenzy`  - Start frenzy mode with multipliers
-
+----
 ## Setup
 
 1. Install dependencies: `pip install -r requirements.txt` 
@@ -73,7 +70,7 @@ FrenzyBot/
 3. Run: `python main.py` 
 
 ‎ 
-
+----
 ## Pre-requisites
 
 > Before you begin, ensure you have the following:
@@ -83,7 +80,7 @@ FrenzyBot/
 
 ‎ 
 
-
+----
 ## Setting Up Environment
 
 > Create a Discord Bot Account:
@@ -107,7 +104,7 @@ FrenzyBot/
 
 ‎ 
 
-
+----
 ## Installing Dependencies
 
 1. Clone the Repository: Open your terminal and clone the Frenzy Bot repository:
@@ -125,7 +122,7 @@ pip install -r requirements.txt
 
 ‎ 
 
-
+----
 ## Configuring the Bot
 
 > Edit the Bot Token:
@@ -139,7 +136,7 @@ pip install -r requirements.txt
 
 ‎ 
 
-
+----
 ##  Using the Bot
 
 - 1. Starting the Message Game: In the text channel where the bot is active, use the command to start a message game:
@@ -178,7 +175,7 @@ pip install -r requirements.txt
 
 ‎ 
 
-
+----
 ## Hosting the Bot
 
 If you want your bot to be online 24/7, consider hosting it on cloud services. Here are some popular options:
@@ -211,7 +208,7 @@ If you want your bot to be online 24/7, consider hosting it on cloud services. H
 
 ‎ 
 
-
+----
 ## Troubleshooting
 
 > Bot Won't Start:
@@ -226,3 +223,4 @@ If you want your bot to be online 24/7, consider hosting it on cloud services. H
 > Command Errors:
 
 - Ensure that the command parameters are entered correctly, and the role is assigned.
+----
