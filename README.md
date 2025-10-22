@@ -110,7 +110,7 @@ FrenzyBot/
 1. Clone the Repository: Open your terminal and clone the Frenzy Bot repository:
  
  ```python
-git clone https://github.com/4icecold/frenzyBot.git
+git clone https://github.com/v3rsion/frenzyBot.git
 cd frenzyBot
 ```
 
